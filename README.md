@@ -1,5 +1,14 @@
 Welcome to my Git repo. Bellow you can find a list of projects I am working on, sorted chronologically by date of last 'commit':
 
+* [IMAP Notes](https://github.com/valinet/IMAPNotes) - Simple Thunderbird extension (compatible with Thunderbird 78+ as of January 2021) that allows editing notes created, edited and synced from the iPhone Notes app. 
+
+* [WinCenterTitle](https://github.com/valinet/WinCenterTitle) - a library that is injected into DWM and centers the title bar text in Windows 10
+
+  This example presents the following concepts:
+
+  * Injecting a DLL into a remote process using the classic LoadLibrary/CreateRemoteThread technique
+  * Setting up a trampoline using a specialized library
+
 * [EtherCard-MDNS](https://github.com/valinet/EtherCard-MDNS) - Simple multicast DNS name resolution and service discovery library for EtherCard library that works with the ENC28J60 module.
 
 * [homepi+](https://github.com/valinet/homepi-plus) - homepi+ is an Arduino based implementation of a home control system. . It interfaces and communicates with various hardware devices in order to provide a single point of control for all of them. It is used to control all the electric and electronic equipment in my study room, from light fixtures to computers and laptops. The user interacts with the service using a simple web application which is accessible from any device which has a browser, so pretty much any modern smart device, and can control it not only from the local network, but also from the larger Internet using a robust and secure security mechanism.
@@ -39,13 +48,6 @@ Welcome to my Git repo. Bellow you can find a list of projects I am working on, 
 * [RunPE for x64](https://gist.github.com/valinet/e27e64927db330b808c3a714c5165b0a) - a classic implementation of RunPE, for Windows running on amd64 based systems
 
 * [Convert files to PDF using Puppeteer (Chromium).js](https://gist.github.com/valinet/8e9d3ca463003c8486b08856a0bc03fc#file-convert-files-to-pdf-using-puppeteer-chromium-js)
-
-* [WinCenterTitle](https://github.com/valinet/WinCenterTitle) - a library that is injected into DWM and centers the title bar text in Windows 10
-
-  This example presents the following concepts:
-
-  * Injecting a DLL into a remote process using the classic LoadLibrary/CreateRemoteThread technique
-  * Setting up a trampoline using a specialized library
 
 * [homepi](https://github.com/valinet/homepi) - a set of configuration data and front end files for the Raspberry Pi that automates my home office setup
 
