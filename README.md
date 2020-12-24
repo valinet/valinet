@@ -1,5 +1,7 @@
 Welcome to my Git repo. Bellow you can find a list of projects I am working on, sorted chronologically by date of last 'commit':
 
+* [ThunderbirdToasts](https://github.com/valinet/ThunderbirdToasts) - Thunderbird Toasts is a simple framework that allows Thunderbird to send Windows 10 toasts as notifications instead of the current custom popup notifications that are not native.
+
 * [IMAP Notes](https://github.com/valinet/IMAPNotes) - Simple Thunderbird extension (compatible with Thunderbird 78+ as of January 2021) that allows editing notes created, edited and synced from the iPhone Notes app. 
 
 * [WinCenterTitle](https://github.com/valinet/WinCenterTitle) - a library that is injected into DWM and centers the title bar text in Windows 10
