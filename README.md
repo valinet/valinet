@@ -1,4 +1,6 @@
-Welcome to my Git repo. Bellow you can find a list of projects I am working on, sorted chronologically by date of last 'commit':
+Welcome to my Git repo. Below you can find a list of projects I am working on, sorted chronologically by date of last 'commit':
+
+* [AudioPot+](https://github.com/valinet/audiopot-plus) - AudioPot+ is the second attempt at producing a volume knob for a computer using an Arduino. It is an evolution of the original [AudioPot](https://github.com/valinet/audiopot) project. This version is entirely based around microcontroller code, in the end obtaining a plug and play device that works on any operating system. Also, the mechanical construction is much improved, by switching to a rotary encoder instead of a potentiometer.
 
 * [ThunderbirdToasts](https://github.com/valinet/ThunderbirdToasts) - Thunderbird Toasts is a simple framework that allows Thunderbird to send Windows 10 toasts as notifications instead of the current custom popup notifications that are not native.
   
