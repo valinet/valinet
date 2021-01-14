@@ -8,6 +8,10 @@ Welcome to my Git repo. Below you can find a list of projects I am working on, s
 
 * [IMAP Notes](https://github.com/valinet/IMAPNotes) - Simple Thunderbird extension (compatible with Thunderbird 78+ as of January 2021) that allows editing notes created, edited and synced from the iPhone Notes app. 
 
+* [HideExplorerSearchBar](https://github.com/valinet/HideExplorerSearchBar) - Very simple executable that hides the search bar in File Explorer and in the Open/Save dialogs in Windows 10.
+
+* [Restarter](https://github.com/valinet/rt) - Restarter (Restart Task) is a simple Win32 application (Windows subsystem) that continously launches an application specified in its arguments, waits for its termination, and repeats the cycle. 
+
 * [WinCenterTitle](https://github.com/valinet/WinCenterTitle) - a library that is injected into DWM and centers the title bar text in Windows 10
 
   This example presents the following concepts:
